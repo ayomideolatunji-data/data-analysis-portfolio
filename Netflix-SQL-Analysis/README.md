@@ -1,22 +1,21 @@
 # Netflix SQL Analysis
 
-## Project Overview
-This project explores a Netflix dataset using MySQL to answer business questions through SQL queries.
+## Overview
+SQL analysis of the Netflix dataset using MySQL. 
+This project explores content trends, top countries, 
+directors, cast members and more.
 
-## Skills Used
-- MySQL
-- Joins
-- Aggregate Functions
-- GROUP BY
-- ORDER BY
-- CASE Statements
+## Tools Used
+- MySQL Workbench
+- draw.io (ER Diagram)
 
-## Dataset
-Netflix Movies and TV Shows Dataset
+## Questions Answered
+1. Which countries produce the most Netflix content?
+2. How many Movies vs TV Shows are on Netflix?
+3. Who are the top directors on Netflix?
+4. How has Netflix content grown over the years?
+5. Who are the most featured cast members?
 
-## Business Questions
-1. Which countries have the most Netflix titles?
-2. Which directors have produced the most content?
-3. What are the most common genres?
-4. How many Movies vs TV Shows are available?
-5. Which ratings appear most frequently?
+## Files
+- `queries/` — SQL query files
+- `screenshots/` — Query result screenshots
