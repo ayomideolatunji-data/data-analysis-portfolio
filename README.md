@@ -1,6 +1,6 @@
 # Hi, I'm Ayomide Daniel Olatunji 👋
 
-## Aspiring Data Analyst
+## Junior Data Analyst
 
 I'm a final-year Botany undergraduate at Lagos State University with a strong passion for data analysis and business intelligence.
 
