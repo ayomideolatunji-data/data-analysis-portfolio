@@ -15,6 +15,23 @@ This project analyzes sales performance, profitability, customer purchasing beha
 * Provide actionable recommendations to improve revenue and profitability.
 
 ---
+---
+
+## 📊 Project Visuals
+
+### 1. Country Performance & Net Profitability
+[Country Overview](country-overview.jpg)
+
+### 2. Market Basket Analysis Matrix
+[Market Basket Matrix](market-basket-matrix.jpg)
+
+### 3. Customer Credit Tier Breakdown
+[Credit Tier Analysis](credit-tier-analysis.jpg)
+
+### 4. Sales Data Overview
+[Sales Data Analysis](sales-data-analysis.jpg)
+
+---
 
 ## 📊 Key Business Insights
 
