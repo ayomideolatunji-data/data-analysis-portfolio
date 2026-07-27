@@ -1,67 +1,80 @@
-# ⚡ Electric Vehicle Tableau Dashboard
+# 🚗 Electric Vehicle Tableau Dashboard
 
 ## 📌 Project Overview
 
-This project explores electric vehicle (EV) registration trends using Tableau. The dashboard provides an interactive view of vehicle types, manufacturers, model years, counties, and geographic distribution, allowing users to quickly identify market trends and adoption patterns.
+This project presents an interactive Tableau dashboard that explores electric vehicle registration data. The dashboard provides insights into vehicle types, manufacturers, geographical distribution, and registration trends over time.
 
----
-
-## 🎯 Objectives
-
-* Analyze electric vehicle adoption.
-* Compare Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
-* Identify the most popular vehicle manufacturers.
-* Explore EV distribution across counties and locations.
-* Examine EV registrations by model year.
+The dashboard allows users to filter data by vehicle manufacturer to better understand the distribution of electric vehicles.
 
 ---
 
 ## 📊 Dashboard Features
 
-* **Vehicle Type Breakdown** (BEV vs. PHEV)
-* **Top Vehicle Manufacturers**
-* **Top 10 Counties by EV Registrations**
-* **Vehicle Registrations by Model Year**
-* **Interactive Map of EV Locations**
-* **Manufacturer Filter** for dynamic dashboard exploration
+- Vehicle Type Distribution (BEV vs PHEV)
+- Vehicle Make Analysis
+- Top 10 Counties by Vehicle Registration
+- Vehicle Registration Trend by Year
+- Vehicle Distribution by Postcode (Map)
+- Interactive Car Make Filter
 
 ---
 
-## 🔍 Key Insights
+## 🛠 Tools Used
 
-* Tesla dominates EV registrations by a significant margin.
-* Battery Electric Vehicles (BEVs) make up the majority of registered electric vehicles.
-* King County has the highest number of EV registrations.
-* EV registrations have increased rapidly in recent model years, showing strong market growth.
-
----
-
-## 🛠️ Tools Used
-
-* Tableau
-* Data Visualization
-* Interactive Dashboards
-
----
-
-## 📷 Dashboard Preview
-
-### Electric Vehicle Dashboard
-
-![Electric Vehicle Dashboard](screenshots/electric-vehicle-dashboard.png)
+- Tableau Desktop
+- Tableau Maps
 
 ---
 
 ## 📁 Project Files
 
-* Tableau Workbook (.twb/.twbx)
-* Dataset
-* Dashboard Screenshot
-* README.md
+- `electric-vehicle-dashboard.twb` — Tableau workbook
+- `screenshots/` — Dashboard screenshots
+- `README.md` — Project documentation
 
 ---
 
-## 👤 Author
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+---
+
+### Vehicle Make Analysis
+
+![Make and Model](screenshots/make-and-model.png)
+
+---
+
+### Top 10 Counties
+
+![Top 10 Counties](screenshots/top-10-counties.png)
+
+---
+
+### Vehicle Registration by Year
+
+![Vehicle Year](screenshots/year-and-type.png)
+
+---
+
+## 📈 Key Insights
+
+- Battery Electric Vehicles (BEVs) make up the majority of registered electric vehicles.
+- Tesla has the highest number of registered vehicles.
+- King County records the largest concentration of electric vehicles.
+- Electric vehicle registrations have increased significantly in recent years.
+
+---
+
+## 👨‍💻 Author
 
 **Ayomide Olatunji**
-Junior Data Analyst
+
+GitHub: https://github.com/ayomideolatunji-data
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
