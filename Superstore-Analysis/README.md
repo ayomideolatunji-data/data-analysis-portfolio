@@ -72,7 +72,7 @@ This project uses the **Superstore Sales** dataset obtained from **Kaggle**. The
 ## 📁 Project Files
 
 - `superstore-sales-analysis.ipynb` — Python analysis notebook
-- `superstore-data.csv` — Dataset
+- `train.csv` — Dataset
 - `screenshots/` — Project visualizations
 - `README.md` — Project documentation
 
