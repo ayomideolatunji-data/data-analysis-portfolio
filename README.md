@@ -15,12 +15,11 @@ I'm a final-year Botany undergraduate at Lagos State University with a strong pa
 
 ### 📂 Projects
 
-Coming soon...
-
 - Netflix Relational Database Design
 - SQL Data Analysis Projects
 - Excel Data Analysis
 - Tableau Dashboards
+- Python Superstore Analysis 
 - Power BI Reports
 
 ### 📫 Contact
